@@ -30,18 +30,18 @@
 				</div>
 			</div>
 			<div class="left-div left-tag">
-				<div class="left-tag-item">学生</div>
-				<div class="left-tag-item">小程序员</div>
+				<div class="left-tag-item">退伍</div>
+				<div class="left-tag-item">码农</div>
 				<div class="left-tag-item">开发</div>
-				<div class="left-tag-item">网站</div>
-				<div class="left-tag-item">脚本小子</div>
+				<div class="left-tag-item">半栈</div>
+				<div class="left-tag-item">网安</div>
 				<div class="left-tag-item">游戏</div>
 				<div class="left-tag-item">音乐</div>
 				<div class="left-tag-item">电影</div>
-				<div class="left-tag-item">电脑</div>
-				<div class="left-tag-item">内向</div>
-				<div class="left-tag-item">开朗</div>
-				<div class="left-tag-item">反代</div>
+				<div class="left-tag-item">拍照</div>
+				<div class="left-tag-item">憨实</div>
+				<div class="left-tag-item">念旧</div>
+				<div class="left-tag-item">奶爸</div>
 			</div>
 			<div class="left-div left-time">
 				<ul id="line">
@@ -96,8 +96,8 @@
 			<header>
 				<a href="https://imbyter.com" class="index-logo" style="background-image: url(./static/img/logo.png);"></a>
 				<div class="welcome">@imbyter师哥</div>
-				<div class="description">🌱 一名热爱技术，开朗又内向的<span class="purpleText"> 小初中生 </span>在星澜3班</div>
-				<div class="description">📝 喜欢捣鼓各种软件，喜欢和熟悉的朋友相处，害羞和自己欣赏或喜欢的人交流，开朗又内向，喜欢独自研究电脑技术</div>
+				<div class="description">🌱 一名热爱技术，从事<span class="purpleText"> 网络安全 </span>行业的小师哥。</div>
+				<div class="description">📝 喜欢分享技术，乐于结交朋友。循光而行，永远热泪盈眶，永远相信梦想！</div>
 
 				<div class="iconContainer">
 					<a class="iconItem" onclick="" target="_blank" href="https://github.com/imbyter">

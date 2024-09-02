@@ -1,4 +1,5 @@
-cp -r/sd/Website/homepage/* .
+#rm -rf index*
+#cp /sd/Website/Class/* .
 git add .
 git commit -m "update"
 git pull --rebase origin main
