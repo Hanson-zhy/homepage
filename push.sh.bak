@@ -1,5 +1,5 @@
 rm -rf *
-cp /sd/Website/homepage/* .
+cp -r /sd/Website/homepage/* .
 git add .
 git commit -m "update"
 git pull --rebase origin main
